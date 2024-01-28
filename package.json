@@ -2,7 +2,7 @@
   "name": "react-multilevel-dropdown-menu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibaslogic.github.io/react-multilevel-dropdown-menu",
+  "homepage": "https://github.com/VB1503/responsive_react_navbar",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
