@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VB1503.github.io/responsive_react_navbar/static/css/main.0c6b6857.css",
+    "main.js": "/VB1503.github.io/responsive_react_navbar/static/js/main.0c360554.js",
+    "static/media/logo.png": "/VB1503.github.io/responsive_react_navbar/static/media/logo.8b83b638b42f95775df2.png",
+    "index.html": "/VB1503.github.io/responsive_react_navbar/index.html",
+    "main.0c6b6857.css.map": "/VB1503.github.io/responsive_react_navbar/static/css/main.0c6b6857.css.map",
+    "main.0c360554.js.map": "/VB1503.github.io/responsive_react_navbar/static/js/main.0c360554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c6b6857.css",
+    "static/js/main.0c360554.js"
+  ]
+}
